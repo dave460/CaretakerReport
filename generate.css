@@ -1,0 +1,25 @@
+div.header 
+{
+	text-align: center;
+}
+
+div.title
+{
+	padding-left: 30px;
+}
+
+div.value
+{
+	padding-left: 30px;
+}
+
+div.cell
+{
+	width: 500px;
+	padding: 10px;
+}
+div.vl
+{
+	padding: 10px;
+	border-left: 3px solid #000;
+}
